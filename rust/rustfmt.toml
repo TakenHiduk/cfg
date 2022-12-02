@@ -1,26 +1,31 @@
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#max_width
-max_width = 80
+max_width = 120
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#comment_width
-comment_width = 80
+# Nightly only 4 now
+# comment_width = 80
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#doc_comment_code_block_width
-doc_comment_code_block_width = 80
+# Nightly only 4 now
+# doc_comment_code_block_width = 80
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#match_block_trailing_comma
 match_block_trailing_comma = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#wrap_comments
-wrap_comments = true
+# Nightly only 4 now
+# wrap_comments = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#edition
 edition = "2021"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#error_on_line_overflow
-error_on_line_overflow = true
+# Nightly only 4 now
+# error_on_line_overflow = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#version
-version = "Two"
+# Nightly only 4 now
+# version = "Two"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#tab_spaces
 tab_spaces = 2
@@ -29,49 +34,52 @@ tab_spaces = 2
 use_field_init_shorthand = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#where_single_line
-where_single_line = true
+# Nightly only 4 now
+# where_single_line = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#binop_separator
-binop_separator = "Back"
+# Nightly only 4 now
+# binop_separator = "Back"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#brace_style
-brace_style = "PreferSameLine"
+# Nightly only 4 now
+# brace_style = "PreferSameLine"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#color
-color = "Always"
+# Nightly only 4 now
+# color = "Always"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#combine_control_expr
-combine_control_expr = false
+# Nightly only 4 now
+# combine_control_expr = false
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#condense_wildcard_suffixes
-condense_wildcard_suffixes = true
+# Nightly only 4 now
+# condense_wildcard_suffixes = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#fn_single_line
-fn_single_line = true
+# Nightly only 4 now
+# fn_single_line = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#force_multiline_blocks
-force_multiline_blocks = true
+# Nightly only 4 now
+# force_multiline_blocks = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#format_code_in_doc_comments
-format_code_in_doc_comments = true
+# Nightly only 4 now
+# format_code_in_doc_comments = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#format_strings
-format_strings = true
+# Nightly only 4 now
+# format_strings = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#imports_indent
-imports_indent = "Visual"
+# Nightly only 4 now
+# imports_indent = "Visual"
 
-# https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#function-arguments
-fn_args_layout = "Visual"
-
-# https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#function-calls
-fn_call_style = "Visual"
-
-# https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#generics
-generics_indent = "Visual"
-
-# https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#where-predicates
-where_indent = "Visual"
+# https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#indent_style
+# Nightly only 4 now
+# indent_style = "Visual"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#match_arm_leading_pipes
 match_arm_leading_pipes = "Always"
@@ -81,25 +89,32 @@ match_arm_leading_pipes = "Always"
 merge_derives = false
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#imports_granularity
-imports_granularity = "Crate"
+# Nightly only 4 now
+# imports_granularity = "Crate"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#normalize_comments
-normalize_comments = true
+# Nightly only 4 now
+# normalize_comments = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#normalize_doc_attributes
-normalize_doc_attributes = true
+# Nightly only 4 now
+# normalize_doc_attributes = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#overflow_delimited_expr
-overflow_delimited_expr = true
+# Nightly only 4 now
+# overflow_delimited_expr = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#remove_nested_parens
 remove_nested_parens = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#reorder_impl_items
-reorder_impl_items = true
+# Nightly only 4 now
+# reorder_impl_items = true
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#group_imports
-group_imports = "One"
+# Nightly only 4 now
+# group_imports = "One"
 
 # https://github.com/rust-lang/rustfmt/blob/master/Configurations.md#trailing_semicolon
-trailing_semicolon = false
+# Nightly only 4 now
+# trailing_semicolon = false
